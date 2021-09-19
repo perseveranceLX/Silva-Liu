@@ -1,7 +1,6 @@
 ---
-title: Writing technical content in Academic
-date: 2019-07-12
-math: true
+title: Underwater image enhancement
+date: 2019-11
 diagram: true
 highlight: true
 image:
