@@ -10,16 +10,16 @@ role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: School of Electronics and Information Engineering, Liaoning Technical University, Huludao 125105, China
+  url: "https://silvaliu.netlify.app/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My main research interests include deep learning, underwater image processing and digital image processing.
 
 #interests:
 #- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Computer Vision
+
 
 #education:
 #  courses:
