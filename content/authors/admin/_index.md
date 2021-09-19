@@ -6,7 +6,7 @@ title: Xu Liu (刘旭)
 superuser: true
 
 # Role/position
-role: 
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
