@@ -1,5 +1,5 @@
 ---
-title: Underwater image enhancement
+title: 全局特征双注意力融合对抗网络的水下图像增强
 date: 2019-11
 diagram: true
 highlight: true
