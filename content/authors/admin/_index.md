@@ -1,12 +1,12 @@
 ---
 # Display name
-title: <font face="Times New Roman">Xu Liu (刘旭)</font>
+title: Xu Liu (刘旭)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Alchemist
+role: Alchemist, Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
