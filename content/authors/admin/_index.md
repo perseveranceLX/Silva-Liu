@@ -6,7 +6,7 @@ title: Xu Liu (刘旭)
 superuser: true
 
 # Role/position
-role: Undergraduate Student
+role: Alchemist
 
 # Organizations/Affiliations
 organizations:
