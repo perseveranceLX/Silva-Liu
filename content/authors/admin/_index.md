@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xu Liu (刘旭)
+title: <font face="Times New Roman">Xu Liu (刘旭)</font>
 
 # Is this the primary user of the site?
 superuser: true
