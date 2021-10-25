@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xu Liu (刘旭)
+title: Xu Liu, Silva, 刘旭
 
 # Is this the primary user of the site?
 superuser: true
@@ -11,7 +11,7 @@ role: Alchemist, Undergraduate Student
 # Organizations/Affiliations
 organizations:
 name: School of Electronics and Information Engineering, Liaoning Technical University (LNTU), Huludao 125105, China
-url: "https://silvaliu.netlify.app/"
+url: "https://dxxy.lntu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My main research interests include deep learning and digital image processing.
