@@ -19,6 +19,7 @@ bio: My main research interests include deep learning, underwater image processi
 # interests
 - Artificial Intelligence
 - Computer Vision
+- Image Processing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "silva-liu@outlook.com"
