@@ -11,7 +11,7 @@ role: Alchemist, Undergraduate Student
 # Organizations/Affiliations
 organizations:
 name: School of Electronics and Information Engineering, Liaoning Technical University (LNTU), Huludao 125105, China
-url: "https://dxxy.lntu.edu.cn/"
+url: "https://silvaliu.netlify.app/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My main research interests include deep learning and digital image processing.
