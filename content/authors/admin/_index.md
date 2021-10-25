@@ -1,18 +1,16 @@
 ---
 # Display name
-title: Xu Liu (刘旭), Silva
+title: 刘旭, Xu Liu, Silva
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Studio Founder, Alchemist, Undergraduate Student
+role: Studio Founder, Alchemist
 
 # Organizations/Affiliations
 organizations:
 - name: Flounder Studio, Dalian 116021, China
-- name: School of Electronics and Information Engineering, Liaoning Technical University, Huludao 125105, China
-  url: "https://dxxy.lntu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My main research interests include deep learning, computer vision and image processing.
